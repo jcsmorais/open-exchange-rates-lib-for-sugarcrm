@@ -11,6 +11,7 @@ Requirements
 * PHP 5.3+
 * cURL support
 * An Open Exchange Rates APP ID (https://openexchangerates.org/signup).
+* SugarCRM 6.3+
 
 
 Installation
