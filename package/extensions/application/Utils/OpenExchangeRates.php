@@ -17,6 +17,4 @@
  *   See LICENSE.txt shipped with this package.
  */
 
-if (!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
-
 require_once 'custom/include/OpenExchangeRates/Autoload.php';

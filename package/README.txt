@@ -10,7 +10,7 @@ Requirements
 ------------
 * PHP 5.3+
 * cURL support
-* An Open Exchange Rates APP ID (https://openexchangerates.org/signup).
+* An Open Exchange Rates APP ID (http://openexchangerates.org/signup).
 * SugarCRM 6.3+
 
 
@@ -29,7 +29,7 @@ Keep in mind that the 'secure-connection' setting depends on the type of account
 
 Documentation
 -------------
-At the moment there's not much documentation besides the one who's delivered with the code. Either way, you can check a few usage examples (https://github.com/jcsmorais/open-exchange-rates-lib/wiki/Usage).
+At the moment there's not much documentation besides the one who's delivered with the code. Either way, you can check a few usage examples (http://github.com/jcsmorais/open-exchange-rates-lib/wiki/Usage).
 
 
 Contributing

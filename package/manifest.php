@@ -46,12 +46,13 @@ $installdefs = array(
     'id' => 'open-exchange-rates-lib',
     'copy' => array(
         array(
-            'from' => '<basepath>/OpenExchangeRates',
+            'from' => '<basepath>/copy/custom/include/OpenExchangeRates',
             'to' => 'custom/include/OpenExchangeRates'
         ),
+    ),
+    'utils' => array(
         array(
-            'from' => '<basepath>/install/OpenExchangeRates.php',
-            'to' => 'custom/Extension/application/Ext/Utils/OpenExchangeRates.php'
+            'from' => '<basepath>/extensions/application/Utils/OpenExchangeRates.php'
         )
     )
 );

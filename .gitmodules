@@ -1,0 +1,3 @@
+[submodule "package/copy/custom/include/OpenExchangeRates"]
+	path = package/copy/custom/include/OpenExchangeRates
+	url = git@github.com:jcsmorais/open-exchange-rates-lib.git
