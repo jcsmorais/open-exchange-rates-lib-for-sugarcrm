@@ -43,7 +43,7 @@ $manifest = array(
 );
 
 $installdefs = array(
-    'id' => 'open-exchange-rates-lib',
+    'id' => 'oer',
     'copy' => array(
         array(
             'from' => '<basepath>/copy/custom/include/OpenExchangeRates',
